@@ -180,5 +180,3 @@ Here's a simple example using vanilla HTML, CSS, and JS to create a responsive g
 - **Tutorials**: FreeCodeCamp or CSS-Tricks for grid-based layouts; MDN for media queries.
 - **Tools**: Unsplash for recipe images, or Canva for card designs.
 - **Inspiration**: Sites like AllRecipes or Food Network for UI ideas.
-
-If you want to integrate this with a backend, add animations, or specify a tech stack, provide more details!
